@@ -1,0 +1,2 @@
+# DiscordSpammer
+Discord Chat Spammer
